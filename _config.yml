@@ -54,7 +54,8 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-
+For the past nine years, I have been working at a medical intensive care unit as a registered nurse in Asan Medical Center. 
+I am a master student in Nursing Informatics at Seoul National University.  
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -109,10 +110,17 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: Research Interests
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
+    layout: list
+    content:
+      - layout: left
+        title: ABC
+        sub_title: ABC
+        caption: ABC
+        quote: >
+          DEF
+        description: | # this will include new lines to allow paragraphs
+          HIJ
+      
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
