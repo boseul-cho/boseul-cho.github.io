@@ -74,7 +74,7 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Subject : The Role of Consumer Informatics for Patient-Centered Health Care
+          Subject : The Role of Consumer Health Informatics for Patient-Centered Health Care
         description: | # this will include new lines to allow paragraphs
           Consumer Health Informatics Research Trend Analysis through keywords of domestic and international articles : Text mining method.
   - title: Experience
@@ -86,7 +86,7 @@ content:
         caption: Sep 2014 - present 
         link: https://www.amc.seoul.kr/asan/main.do
         quote: >
-          Registered Nurse(ICU)
+          Registered Nurse specialized in ICU
         description: | # this will include new lines to allow paragraphs
           Experience monitoring patient progress and with providing updates to doctors, patients, and family members.
           Knowledge of nursing care methods, procedures, and emergency care.
