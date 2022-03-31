@@ -138,6 +138,17 @@ content:
           Text mining, Natural Language Process
         description: | # this will include new lines to allow paragraphs
         
+  - title: Publication
+    layout: list
+    content:
+      - layout: left
+        title: 
+        sub_title: 
+        caption: 
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+        
 
           
           
