@@ -95,7 +95,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: Seoul National University
         sub_title: MA in Nursing Informatics
         caption: 2021 - Present
@@ -103,7 +103,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           
-      - layout: top-right
+      - layout: left
         title: Inha University 
         sub_title: BA in Department of Nursing 
         caption: 2010 - 2014
