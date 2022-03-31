@@ -123,11 +123,11 @@ content:
         description: | # this will include new lines to allow paragraphs
         
       - layout: left
-        title: Information Standardization
+        title: Data Interpretation
         sub_title: 
         caption: 
         quote: >
-          Ontology, standardized terminology
+          Ontology, Standardized terminology, Data accuracy, Quality Improvement
         description: | # this will include new lines to allow paragraphs
           
       - layout: left
@@ -136,6 +136,14 @@ content:
         caption: 
         quote: >
           Text mining, Natural Language Process
+        description: | # this will include new lines to allow paragraphs
+        
+      - layout: left
+        title: Consumer Health Informatics
+        sub_title: 
+        caption: 
+        quote: >
+          Person Generated Health Data, Patient Portal, self-tracking
         description: | # this will include new lines to allow paragraphs
         
   - title: Publication
