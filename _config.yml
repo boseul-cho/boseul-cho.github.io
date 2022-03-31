@@ -74,7 +74,7 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          
+          Subject : The Role of Consumer Informatics for Patient-Centered Health Care
         description: | # this will include new lines to allow paragraphs
           Consumer Health Informatics Research Trend Analysis through keywords of domestic and international articles : Text mining method.
   - title: Experience
