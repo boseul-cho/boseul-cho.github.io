@@ -80,7 +80,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Asan Medical Center
         sub_title: Medical Intensive Care Unit
         caption: Sep 2014 - present 
@@ -88,11 +88,11 @@ content:
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Registered Nurse
+          Registered Nurse(ICU)
   - title: Education
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Seoul National University
         sub_title: MA in Nursing Informatics
         caption: 2021 - Present
@@ -100,7 +100,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           
-      - layout: right
+      - layout: left
         title: Inha University 
         sub_title: BA in Department of Nursing 
         caption: 2010 - 2014
