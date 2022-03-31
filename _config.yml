@@ -80,7 +80,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: left
+      - layout: right
         title: Asan Medical Center
         sub_title: Medical Intensive Care Unit
         caption: Sep 2014 - present 
@@ -95,7 +95,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: left
+      - layout: top-right
         title: Seoul National University
         sub_title: MA in Nursing Informatics
         caption: 2021 - Present
@@ -103,7 +103,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           
-      - layout: left
+      - layout: top-right
         title: Inha University 
         sub_title: BA in Department of Nursing 
         caption: 2010 - 2014
@@ -114,14 +114,6 @@ content:
   - title: Research Interests
     layout: list
     content:
-      - layout: left
-        title: Nursing workflow
-        sub_title: 
-        caption: 
-        quote: >
-          Clinical decision support system
-        description: | # this will include new lines to allow paragraphs
-          
       - layout: left
         title: Information Standardization
         sub_title: 
@@ -137,8 +129,17 @@ content:
         quote: >
           Text mining, Natural Language Process
         description: | # this will include new lines to allow paragraphs
+        
+       - layout: left
+        title: Nursing workflow
+        sub_title: 
+        caption: 
+        quote: >
+          Clinical decision support system
+        description: | # this will include new lines to allow paragraphs
           
           
+    
 
 # Footer
 footer_show_references: true
