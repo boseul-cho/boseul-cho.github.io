@@ -113,13 +113,22 @@ content:
     layout: list
     content:
       - layout: left
-        title: ABC
-        sub_title: ABC
-        caption: ABC
+        title: Information Standardization
+        sub_title: 
+        caption: 
         quote: >
-          DEF
+          Ontology, standardized terminology
         description: | # this will include new lines to allow paragraphs
           HIJ
+      - layout: left
+        title: Artificial Intelligence
+        sub_title: Machine Learning
+        caption: 
+        quote: >
+          Text mining, Natural Language Process
+        description: | # this will include new lines to allow paragraphs
+          
+          
 
 # Footer
 footer_show_references: true
