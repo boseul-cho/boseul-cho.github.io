@@ -115,6 +115,14 @@ content:
     layout: list
     content:
       - layout: left
+        title: Nursing workflow
+        sub_title: 
+        caption: 
+        quote: >
+          Clinical decision support system
+        description: | # this will include new lines to allow paragraphs
+        
+      - layout: left
         title: Information Standardization
         sub_title: 
         caption: 
@@ -130,13 +138,7 @@ content:
           Text mining, Natural Language Process
         description: | # this will include new lines to allow paragraphs
         
-       - layout: left
-        title: Nursing workflow
-        sub_title: 
-        caption: 
-        quote: >
-          Clinical decision support system
-        description: | # this will include new lines to allow paragraphs
+
           
           
     
