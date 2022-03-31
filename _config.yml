@@ -80,7 +80,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Asan Medical Center
         sub_title: Medical Intensive Care Unit
         caption: Sep 2014 - present 
