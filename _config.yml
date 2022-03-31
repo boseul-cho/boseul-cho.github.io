@@ -65,7 +65,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Symposium Speech
         link: The Korean Society of Medical Informatics(KOSMI)
-        link_text: 
+        link_text: https://www.kosmi.org/
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
