@@ -86,7 +86,10 @@ content:
         caption: Sep 2014 - present 
         link: https://www.amc.seoul.kr/asan/main.do
         quote: >
-          Short description of the company (optional)
+          Experience monitoring patient progress and with providing updates to doctors, patients, and family members
+          Knowledge of nursing care methods, procedures, and emergency care
+          Care for patients requiring ECMO, ventilator, CRRT, lung translantation (critical treatment, etc.)
+          Expert knowledge of health and safety guidelines/procedures (sanitation, decontamination, etc.)
         description: | # this will include new lines to allow paragraphs
           Registered Nurse(ICU)
   - title: Education
@@ -111,7 +114,7 @@ content:
   - title: Research Interests
     layout: list
     content:
-       - layout: left
+      - layout: left
         title: Nursing workflow
         sub_title: 
         caption: 
