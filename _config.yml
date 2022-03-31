@@ -119,7 +119,7 @@ content:
         quote: >
           Ontology, standardized terminology
         description: | # this will include new lines to allow paragraphs
-          HIJ
+          
       - layout: left
         title: Artificial Intelligence
         sub_title: Machine Learning
