@@ -64,8 +64,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Symposium Speech
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: 
+        link: 
+        link_text: The Korean Society of Medical Informatics(KOSMI)
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -74,7 +74,7 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          The Korean Society of Medical Informatics(KOSMI)
+          
         description: | # this will include new lines to allow paragraphs
           Consumer Health Informatics Research Trend Analysis through keywords of domestic and international articles : Text mining method.
   - title: Experience
