@@ -64,8 +64,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Symposium Speech
-        link: 
-        link_text: The Korean Society of Medical Informatics(KOSMI)
+        link: The Korean Society of Medical Informatics(KOSMI)
+        link_text: 
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
