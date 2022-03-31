@@ -92,23 +92,22 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: right
         title: Seoul National University
-        sub_title: MA Nursing Informatics
+        sub_title: MA in Nursing Informatics
         caption: 2021 - Present
         quote: >
-          Short institution or course description (optional)
+          
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-              layout: list
-      - layout: top-right
+          
+      - layout: right
         title: Inha University 
-        sub_title: BA Nursing Science
+        sub_title: BA in Department of Nursing 
         caption: 2010 - 2014
         quote: >
-          Short institution or course description (optional)
+          
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+       
   - title: Research Interests
     layout: list
     content:
