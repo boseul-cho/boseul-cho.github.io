@@ -69,7 +69,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           
   - title: Experience
-      - layout: list
+    layout: list
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Symposium Speech
