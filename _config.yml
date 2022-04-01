@@ -60,7 +60,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: list
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Project participatation 
@@ -82,17 +82,17 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Symposium Speech
-        link: The Korean Society of Medical Informatics(KOSMI) presented in 2021 fall conference
-        link_text: http://www.kosmi.org/
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: http://www.kosmi.org/
+        link_text: The Korean Society of Medical Informatics(KOSMI) presented in 2021 fall conference
+#         additional_links:
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Subject : The Role of Consumer Health Informatics for Patient-Centered Health Care
+          The Role of Consumer Health Informatics for Patient-Centered Health Care
         description: | # this will include new lines to allow paragraphs
           Consumer Health Informatics Research Trend Analysis through keywords of domestic and international articles : Text mining method.
   - title: Experience
