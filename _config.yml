@@ -69,7 +69,7 @@ content:
         description: | # this will include new lines to allow paragraphs
         
       - layout: list
-        title: Project participatation 
+        title: Academic Conference 
         link : https://rins.snu.ac.kr/
         link_text: The Research Institute of Nursing Science
         quote: >
