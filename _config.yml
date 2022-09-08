@@ -143,11 +143,11 @@ content:
         description: | # this will include new lines to allow paragraphs
         
       - layout: left
-        title: Data Anaylsis 
+        title: Data Analysis 
         sub_title: 
         caption: 
         quote: >
-          Ontology, Standardized terminology, Data accuracy, Quality Improvement
+          Standardized terminology, Data accuracy, Quality Improvement
         description: | # this will include new lines to allow paragraphs
           
       - layout: left
@@ -155,7 +155,7 @@ content:
         sub_title: Machine Learning
         caption: 
         quote: >
-          Text mining, Natural Language Process
+          Text mining, Natural Language Process, Prediction model
         description: | # this will include new lines to allow paragraphs
         
       - layout: left
@@ -163,7 +163,7 @@ content:
         sub_title: 
         caption: 
         quote: >
-          Person Generated Health Data, Patient Portal, self-tracking
+          PGHD(Person-Generated Health Data), self-tracking data
         description: | # this will include new lines to allow paragraphs
         
   - title: Publication
