@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   For the past nine years, I have been working at a medical intensive care unit as a registered nurse in Asan Medical Center. 
   I am a master student in Nursing Informatics at Seoul National University.  
 content:
-  - title: Conferences(TALK/POSTER) # Title for the section
+  - title: Conferences(Talk/Poster) # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: list
