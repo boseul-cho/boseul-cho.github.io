@@ -57,6 +57,36 @@ about_content: | # this will include new lines to allow paragraphs
   For the past nine years, I have been working at a medical intensive care unit as a registered nurse in Asan Medical Center. 
   I am a master student in Nursing Informatics at Seoul National University.  
 content:
+  - title: Conferences(TALK/POSTER) # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: list
+        title: Oral Presentation 
+        link : https://www.kosmi.org/bbs/content.php?co_id=sub5_1
+        link_text: The Korean Society of Medical Informatics(KOSMI) presented in 2022 fall conference
+        quote: >
+          PGHD(person-generated health data) in clinical use
+        description: |
+          Health Care Providers' Perception of PGHD(person-generated health data) in clinical use from south korea
+      - layout: list
+#         border: weak  # Value of `weak` will display a weak border below this item. # Any 
+#                       # other value (or no value) means no border will be displayed
+        title: E-poster
+        link: https://rinsconference.com/The 14th International Nursing Research Conference
+        link_text: The 14th International Nursing Research Conference
+        quote: > 
+          The 14th International Nursing Research Conference; Translational Nursing : "Bridging the gap between nursing research and practice"
+        description: | # this will include new lines to allow paragraph
+          Boseul Cho, Jinsol Kim, Jeongha Kim, "Using Text Mining Techniques to Analyze Research Trends and Issues in Telemedicine" (2022)
+
+      - layout: list
+        title: Oral Presentation
+        link: http://www.kosmi.org/
+        link_text: The Korean Society of Medical Informatics(KOSMI) presented in 2021 fall conference 
+        quote: >
+          The Role of Consumer Health Informatics for Patient-Centered Health Care
+        description: | # this will include new lines to allow paragraphs
+          Consumer Health Informatics Research Trend Analysis through keywords of domestic and international articles : Text mining method.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -77,25 +107,6 @@ content:
           "Academic Conference" supported by the Research Institute of Nursing Science, Seoul National University Student Research Grant in 2022
         description: |
           Using text mining techniques to analyze research trends and issues in consumer health informatics
-        
-        
-      - layout: left
-#         border: weak  # Value of `weak` will display a weak border below this item. # Any 
-#                       # other value (or no value) means no border will be displayed
-        title: Symposium Speech
-        link: http://www.kosmi.org/
-        link_text: The Korean Society of Medical Informatics(KOSMI) presented in 2021 fall conference
-#         additional_links:
-#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#             icon: fab fa-github
-#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#             icon: fab fa-github
-#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          The Role of Consumer Health Informatics for Patient-Centered Health Care
-        description: | # this will include new lines to allow paragraphs
-          Consumer Health Informatics Research Trend Analysis through keywords of domestic and international articles : Text mining method.
   - title: Experience
     layout: list
     content:
@@ -108,10 +119,12 @@ content:
         quote: >
           Registered Nurse specialized in ICU
         description: | # this will include new lines to allow paragraphs
-          - Experience monitoring patient progress and with providing updates to doctors, patients, and family members.
-          - Knowledge of nursing care methods, procedures, and emergency care.
-          - Care for patients requiring ECMO, ventilator, CRRT, lung translantation (critical treatment, etc.).
-          - Expert knowledge of health and safety guidelines/procedures (sanitation, decontamination, etc.)
+          - Provided patient care, performed assessments, and interventions at a 15-bed ICU units for patients needed in critical care.
+          - Assessed patient's condition, notified physicians of clinical changes as well as prepared and implemented patient care plans.
+          - Monitored vital signs, adequacy of ventilation, ECMO, CRRT, post-op conditions(especially, specialized in lung-transplantation).
+          - Served as a role model, the preceptor's job includes protecting, educating, evaluating, and socializing 5 new nurses by using evidence-based practices. 
+          - Cared for lung transplantaion or vent-assisted, bleeding, sepsis patients 
+         
   - title: Education
     layout: list
     content:
