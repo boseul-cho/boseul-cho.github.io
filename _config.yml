@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Boseul Cho
-title: MICU RN
+title: ICU RN
 email: boseul.cho@snu.ac.kr
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -16,7 +16,7 @@ email: boseul.cho@snu.ac.kr
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: True
 
 # Social links
 # twitter_username: jekyllrb
@@ -123,7 +123,7 @@ content:
           - Assessed patient's condition, notified physicians of clinical changes as well as prepared and implemented patient care plans.
           - Monitored vital signs, adequacy of ventilation, ECMO, CRRT, post-op conditions(especially, specialized in lung-transplantation).
           - Served as a role model, the preceptor's job includes protecting, educating, evaluating, and socializing 5 new nurses by using evidence-based practices. 
-          - Cared for lung transplantaion or vent-assisted, bleeding, sepsis patients 
+          - Cared for patients requiring lung transplantation, ventilation assistance, bleeding, sepsis, or ICU treatment
          
   - title: Education
     layout: list
