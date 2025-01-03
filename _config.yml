@@ -183,11 +183,11 @@ content:
     layout: list
     content:
       - layout: left
-        title: 
+        title: PGHD
         sub_title: 
         caption: 
         quote: >
-          
+          Kim H, Cho B, Jung J, Kim J. Attitudes and perspectives of nurses and physicians in South Korea towards the clinical use of person-generated health data. DIGITAL HEALTH. 2023;9. doi:10.1177/20552076231218133
         description: | # this will include new lines to allow paragraphs
         
 
