@@ -183,7 +183,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: PGHD
+        title: PGHD(Person-Generated Health Data)
         sub_title: 
         caption: 
         quote: >
